@@ -1,0 +1,9 @@
+D:\ScalableServiceAssignment\BitsPilani.Courses.Subscriber\BitsPilani.Courses.Subscriber.Common\bin\Debug\netcoreapp3.1\BitsPilani.Courses.Subscriber.Common.deps.json
+D:\ScalableServiceAssignment\BitsPilani.Courses.Subscriber\BitsPilani.Courses.Subscriber.Common\bin\Debug\netcoreapp3.1\BitsPilani.Courses.Subscriber.Common.dll
+D:\ScalableServiceAssignment\BitsPilani.Courses.Subscriber\BitsPilani.Courses.Subscriber.Common\bin\Debug\netcoreapp3.1\BitsPilani.Courses.Subscriber.Common.pdb
+D:\ScalableServiceAssignment\BitsPilani.Courses.Subscriber\BitsPilani.Courses.Subscriber.Common\obj\Debug\netcoreapp3.1\BitsPilani.Courses.Subscriber.Common.AssemblyInfoInputs.cache
+D:\ScalableServiceAssignment\BitsPilani.Courses.Subscriber\BitsPilani.Courses.Subscriber.Common\obj\Debug\netcoreapp3.1\BitsPilani.Courses.Subscriber.Common.AssemblyInfo.cs
+D:\ScalableServiceAssignment\BitsPilani.Courses.Subscriber\BitsPilani.Courses.Subscriber.Common\obj\Debug\netcoreapp3.1\BitsPilani.Courses.Subscriber.Common.csproj.CoreCompileInputs.cache
+D:\ScalableServiceAssignment\BitsPilani.Courses.Subscriber\BitsPilani.Courses.Subscriber.Common\obj\Debug\netcoreapp3.1\BitsPilani.Courses.Subscriber.Common.dll
+D:\ScalableServiceAssignment\BitsPilani.Courses.Subscriber\BitsPilani.Courses.Subscriber.Common\obj\Debug\netcoreapp3.1\BitsPilani.Courses.Subscriber.Common.pdb
+D:\ScalableServiceAssignment\BitsPilani.Courses.Subscriber\BitsPilani.Courses.Subscriber.Common\obj\Debug\netcoreapp3.1\BitsPilani.Courses.Subscriber.Common.csprojAssemblyReference.cache
